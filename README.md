@@ -10,9 +10,9 @@ This is a simple, clean, and minimalistic photography portfolio website built wi
 
 ## Structure
 - `index.html` — Main page
-- `styles/main.css` — Stylesheet
-- `scripts/main.js` — JavaScript for contact form
-- `images/` — Placeholder images (replace with your own photos)
+- `css/main.css` — Stylesheet
+- `js/main.js` — JavaScript for contact form
+- `assets/` — Placeholder images (replace with your own photos)
 
 ## Usage
 1. Replace the images in the `images/` folder with your own photos.
